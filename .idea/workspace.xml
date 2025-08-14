@@ -6,12 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4d0a7306-5c8f-46b5-9538-4c4fa2a62c19" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/Activate.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/activate.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/python.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +45,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "BookStore",
-    "last_opened_file_path": "D:/Coding/Web-Scrapping"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;BookStore&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Coding/Web-Scrapping&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Coding\Web-Scrapping\books\books\spiders" />

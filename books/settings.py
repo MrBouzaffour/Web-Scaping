@@ -6,6 +6,7 @@
 #     https://docs.scrapy.org/en/latest/topics/settings.html
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
+from scrapy.settings.default_settings import ITEM_PIPELINES
 
 BOT_NAME = "books"
 
@@ -26,6 +27,13 @@ ROBOTSTXT_OBEY = True
 CONCURRENT_REQUESTS_PER_DOMAIN = 1
 DOWNLOAD_DELAY = 1
 
+# --- MongoDB ---
+MONGO_URI = "mongodb://localhost:27017"
+MONGO_DATABASE = "books_db"
+
+ITEM_PIPELINES = {
+    "books.pipelines.MongoPipeline": 300,
+}
 # Disable cookies (enabled by default)
 #COOKIES_ENABLED = False
 
